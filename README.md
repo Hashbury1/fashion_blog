@@ -21,7 +21,7 @@ git push origin main
 ## Deployment
 
 The site automatically deploys to GitHub Pages when changes are pushed to the main branch.
-Visit your site at: https://your-username.github.io/fashion-blog/
+Visit your site at: https://hashbury1.github.io/fashion-blog/
 
 ## Development
 
