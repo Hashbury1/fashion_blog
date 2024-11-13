@@ -6,7 +6,7 @@ A responsive fashion blog template deployed with GitHub Actions.
 
 1. Clone the repository:
 ```bash
-git clone https://github.com/your-username/fashion-blog.git
+git clone https://github.com/your-username/fashion_blog.git
 ```
 
 2. Make your changes to the HTML/CSS in `index.html`
